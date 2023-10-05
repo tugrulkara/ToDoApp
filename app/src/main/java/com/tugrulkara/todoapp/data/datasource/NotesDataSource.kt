@@ -1,4 +1,10 @@
 package com.tugrulkara.todoapp.data.datasource
 
-class NotesDataSource {
+import com.tugrulkara.todoapp.room.NotesDao
+
+class NotesDataSource(var nDao:NotesDao) {
+
+
+
+
 }

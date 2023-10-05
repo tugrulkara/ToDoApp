@@ -11,5 +11,6 @@ data class Note(
     @PrimaryKey(autoGenerate = true)
     @ColumnInfo(name = "note_id") @NotNull var note_id:Int,
     @ColumnInfo(name = "note_title") @NotNull var note_title:String,
-    @ColumnInfo(name = "note_text") @NotNull var note_text:String
+    @ColumnInfo(name = "note_text") @NotNull var note_text:String,
+    @ColumnInfo(name = "check_info") @NotNull var check_info:Boolean = false
 ): Serializable
