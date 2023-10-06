@@ -4,7 +4,7 @@
 
 | Home Screen  | Home Screen | Search Screen	| Create Screen  | Update Screen |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/f62b9340-94bc-4995-abb0-51bc5a45b5e1) | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/6047c34a-2a1a-4ad4-830f-983b143d134e)  | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/407f6764-fec3-42d8-961d-741ddfdf9d45)  | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/20e54b36-8e67-48ab-a379-e69019cede4d)  | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/64297e6e-8610-4443-94d2-ed4b14417d61) | 
+| ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/4b3d9bf2-b80a-499d-ae99-18aa089ddc45) | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/0063272a-a9d3-45bd-a070-738de243c4d4)  | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/82b76048-4465-4e04-9c41-b9aca8ce260a)  | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/117e1156-eb7e-411e-b969-14b1955f4da3)  | ![](https://github.com/tugrulkara/ToDoApp/assets/74429693/f7b5c7f0-d3de-463a-a257-5542fe42f340) | 
 
 
  ## Libraries Used
