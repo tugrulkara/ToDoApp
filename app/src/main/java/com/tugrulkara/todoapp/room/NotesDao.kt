@@ -14,12 +14,15 @@ interface NotesDao {
     suspend fun getList() : List<Note>
 
     @Insert
-    suspend fun save(kisi: Note)
+    suspend fun save(note: Note)
 
     @Update
-    suspend fun update(kisi: Note)
+    suspend fun update(note: Note)
 
     @Delete
-    suspend fun delete(kisi: Note)
+    suspend fun delete(note: Note)
+
+    @Query("SELECT * FROM notes WHERE note_title like '%' || :searchText || '%' ")
+    suspend fun search(searchText:String) : List<Note>
 
 }

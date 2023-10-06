@@ -20,8 +20,7 @@ class AppModule {
     @Provides
     @Singleton
     fun provideNotesDao(@ApplicationContext context: Context) : NotesDao{
-        val db = Room.databaseBuilder(context,Database::class.java,"notes")
-            .createFromAsset("notes").build()
+        val db = Room.databaseBuilder(context,Database::class.java,"notes").build()
         return db.getNotesDao()
     }
 
